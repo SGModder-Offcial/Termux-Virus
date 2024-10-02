@@ -1,6 +1,6 @@
 Here’s the complete README file content with the sections you specified formatted as code:
 
-```markdown
+
 # Termux-Virus
 
 ⚠ **Warning**: Run at your own risk.
