@@ -6,7 +6,7 @@ Join My Channel: [SG_Modder1](https://t.me/SG_Modder1)
 
 😈 **2024 New Termux Virus By Me** 😈
 
-😈 **Command 👇👇👇** 😈
+👨‍💻 **Command 👇👇👇** 
 
 
 ```bash
