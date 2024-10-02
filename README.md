@@ -23,17 +23,5 @@ You can stop the script in two ways:
 1. **Using Ctrl + C**:
    - Simply press `Ctrl` and `C` keys together in your Termux terminal to terminate the script.
 
-2. **Using the `kill` Command**:
-   - Open another terminal session.
-   - Run the command to find the process ID (PID):
-     ```bash
-     ps aux | grep dd
-     ```
-   - Identify the PID of the `dd` process.
-   - Run the following command to kill the process:
-     ```bash
-     kill <PID>
-     ```
-
 
 💎 **Made By**: @SG_Modder1
