@@ -2,9 +2,8 @@
 
 ⚠ **Warning**: Run at your own risk.
 
-Join My Channel: [SG_Modder1](https://t.me/SG_Modder1)
+**Join My Channel:** [SG_Modder1](https://t.me/SG_Modder1)
 
-😈 **2024 New Termux Virus By Me** 😈
 
 👨‍💻 **Virus Command 👇👇👇** 
 
@@ -25,3 +24,5 @@ You can stop the script in two ways:
 
 1. **Using Ctrl + C**:
    - Simply press `Ctrl` and `C` keys together in your Termux terminal to terminate the script.
+
+**😅Work Offline No need internet**
