@@ -31,8 +31,3 @@ You can stop the file creation process using one of the following methods:
 2. **Closing the Termux Session**: You can also stop the script by closing the Termux application entirely. This will terminate all running processes within Termux.
 
 💎 **Made By**: @SG_Modder1
-```
-
-### Instructions to Use:
-- Copy the above code into a file named `README.md` in your GitHub repository.
-- This README provides essential information on the script, including its usage and how to stop it. Adjust any text as needed!
