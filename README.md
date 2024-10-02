@@ -22,6 +22,3 @@ You can stop the script in two ways:
 
 1. **Using Ctrl + C**:
    - Simply press `Ctrl` and `C` keys together in your Termux terminal to terminate the script.
-
-
-💎 **Made By**: @SG_Modder1
